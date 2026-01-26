@@ -27,6 +27,6 @@ TensorFlow / PyTorch
 Kaggle
 
 6️⃣ Results
-Achieved 90-94% accuracy 
-Accuracy
+Achieved 94-98% training accuracy 
+
 
